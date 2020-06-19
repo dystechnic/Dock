@@ -1,2 +1,2 @@
 # Dock
-Dumpingplace for my Docker builds
+Dumpingplace for my Docker builds.
